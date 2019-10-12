@@ -5,23 +5,29 @@
 
 ## Contents
 
-- [Section](#section)
-- [Another Section](#another-section)
+- [Programming tools](#programmingtools)
+
+- [Cloud services](#cloudservices)
+
+- [Other](#other)
 
 
-## Section
+## Programming tools
 
-About this section. Optional. Keep this short and focus on the list.
-
-- [List item](http://example.com)
-- [List item](http://example.com)
-
-
-## Another Section
-
-### Subsection
+Mostly IDE's and other stuff.
 
 - [List item](http://example.com)
+
+
+## Cloud services
+
+- [List item](http://example.com)
+
+
+## Other
+
+Mostly IDE's
+
 - [List item](http://example.com)
 
 
