@@ -1,6 +1,6 @@
 # awesome-dot-edu [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> Free subscriptions for students
+> Free subscriptions for students.
 
 
 ## Contents
