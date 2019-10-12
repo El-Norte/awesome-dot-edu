@@ -5,9 +5,9 @@
 
 ## Contents
 
-- [Programming tools](#programmingtools)
+- [Programming tools](#programming-tools)
 
-- [Cloud services](#cloudservices)
+- [Cloud services](#cloud-services)
 
 - [Other](#other)
 
