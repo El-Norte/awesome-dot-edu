@@ -7,26 +7,29 @@
 
 - [Programming tools](#programming-tools)
 
-- [Cloud services](#cloud-services)
-
 - [Other](#other)
 
 
-## Programming tools
+## Dev tools
 
 Mostly IDE's and other stuff.
 
-- [List item](http://example.com)
+- [JetBrains products](https://www.jetbrains.com/student/)
 
+- [Tinkoff VoiceKit](https://voicekit.tinkoff.ru/)
 
-## Cloud services
+- [GitHub Student Developer Pack](https://education.github.com/pack)
 
-- [List item](http://example.com)
+- [Microsoft Azure for education](https://www.cis.fiu.edu/azureedu/)
+
+- [Google products for higher education](https://edu.google.com/programs)
+
+- [Intel® Parallel Studio XE](https://software.intel.com/en-us/intel-parallel-studio-xe)
+
+- [Intel® System Studio](https://software.intel.com/en-us/system-studio)
 
 
 ## Other
-
-Mostly IDE's
 
 - [List item](http://example.com)
 
