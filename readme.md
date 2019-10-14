@@ -7,7 +7,7 @@
 
 - [Dev tools](#dev-tools)
 
-- [Other](#other)
+- [Engineering](#engineering)
 
 
 ## Dev tools
@@ -30,6 +30,8 @@ Mostly IDE's and other stuff.
 
 
 ## Engineering
+
+Helpful tools for students with engineering background
 
 - [Autodesk Education](https://www.autodesk.com/education/free-software/featured) - more than 100 products available to students, educators, and institutions globally.
 
