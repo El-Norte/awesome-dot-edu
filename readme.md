@@ -5,7 +5,7 @@
 
 ## Contents
 
-- [Programming tools](#programming-tools)
+- [Dev tools](#dev-tools)
 
 - [Other](#other)
 
@@ -14,56 +14,24 @@
 
 Mostly IDE's and other stuff.
 
-- [JetBrains products](#jetbrains-products)
+- [JetBrains products](https://www.jetbrains.com/student/) - professional developer tools for programming on Java, PHP, Ruby, Python, JavaScript, Kotlin, Objective-C, or .NET technologies
 
-- [Tinkoff VoiceKit](#tinkoff-voicekit)
+- [Tinkoff VoiceKit](https://voicekit.tinkoff.ru/) - STT conversion for speech analysis, voice control and quality control
 
-- [GitHub Student Developer Pack](#github-student-developer-pack)
+- [GitHub Student Developer Pack](https://education.github.com/pack) - a lot of free tools only for student developers
 
-- [Microsoft Azure for education](#microsoft-azure-for-education)
+- [Microsoft Azure for education](https://www.cis.fiu.edu/azureedu/) - professional developer and designer tools, software, cloud services from Microsoft
 
-- [Google products for higher education](#google-products-for-higher-education)
+- [Google products for higher education](https://edu.google.com/programs) - free credits to learn and build on Google Cloud, online labs and courses
 
-- [Intel® Parallel Studio XE](#intel-parallel-studio-xe)
+- [Intel® Parallel Studio XE](https://software.intel.com/en-us/intel-parallel-studio-xe) - suite of development tools that makes it simpler to build and modernize code on C, C++, Fortran, and Python
 
-- [Intel® System Studio](#intel-system-studio)
+- [Intel® System Studio](https://software.intel.com/en-us/system-studio) - an all-in-one, cross-platform tool suite, purpose-built to simplify system bring-up and improve system and IoT device application performance on Intel® platforms.
 
 
 ## Other
 
 - [List item](http://example.com)
-
-
-
-## JetBrains products
-
-[JetBrains products](https://www.jetbrains.com/student/) - professional developer tools from JetBrains for programming on Java, PHP, Ruby, Python, JavaScript, Kotlin, Objective-C, or     .NET technologies
-
-## Tinkoff VoiceKit
-
-[Tinkoff VoiceKit](https://voicekit.tinkoff.ru/) - voice to text conversion for speech analysis, voice control and quality control
-
-## GitHub Student Developer Pack
-
-[GitHub Student Developer Pack](https://education.github.com/pack) - a lot of tools for developers
-
-## Microsoft Azure for education
-
-[Microsoft Azure for education](https://www.cis.fiu.edu/azureedu/) - professional developer and designer tools, software, cloud services from Microsoft
-
-## Google products for higher education
-
-[Google products for higher education](https://edu.google.com/programs) - free credits to learn and build on Google Cloud, online labs and courses
-
-## Intel® Parallel Studio XE
-
-[Intel® Parallel Studio XE](https://software.intel.com/en-us/intel-parallel-studio-xe) - suite of development tools makes it simpler to build and modernize code on C, C++, Fortran, and Python
-
-## Intel® System Studio
-
-[Intel® System Studio](https://software.intel.com/en-us/system-studio) - an all-in-one, cross-platform tool suite, purpose-built to simplify system bring-up and improve system and IoT device application performance on Intel® platforms.
-
-
 
 
 ## Contribute
