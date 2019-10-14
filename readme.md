@@ -14,24 +14,56 @@
 
 Mostly IDE's and other stuff.
 
-- [JetBrains products](https://www.jetbrains.com/student/)
+- [JetBrains products](#jetbrains-products)
 
-- [Tinkoff VoiceKit](https://voicekit.tinkoff.ru/)
+- [Tinkoff VoiceKit](#tinkoff-voicekit)
 
-- [GitHub Student Developer Pack](https://education.github.com/pack)
+- [GitHub Student Developer Pack](#github-student-developer-pack)
 
-- [Microsoft Azure for education](https://www.cis.fiu.edu/azureedu/)
+- [Microsoft Azure for education](#microsoft-azure-for-education)
 
-- [Google products for higher education](https://edu.google.com/programs)
+- [Google products for higher education](#google-products-for-higher-education)
 
-- [Intel® Parallel Studio XE](https://software.intel.com/en-us/intel-parallel-studio-xe)
+- [Intel® Parallel Studio XE](#intel-parallel-studio-xe)
 
-- [Intel® System Studio](https://software.intel.com/en-us/system-studio)
+- [Intel® System Studio](#intel-system-studio)
 
 
 ## Other
 
 - [List item](http://example.com)
+
+
+
+## JetBrains products
+
+[JetBrains products](https://www.jetbrains.com/student/) - professional developer tools from JetBrains for programming on Java, PHP, Ruby, Python, JavaScript, Kotlin, Objective-C, or     .NET technologies
+
+## Tinkoff VoiceKit
+
+[Tinkoff VoiceKit](https://voicekit.tinkoff.ru/) - voice to text conversion for speech analysis, voice control and quality control
+
+## GitHub Student Developer Pack
+
+[GitHub Student Developer Pack](https://education.github.com/pack) - a lot of tools for developers
+
+## Microsoft Azure for education
+
+[Microsoft Azure for education](https://www.cis.fiu.edu/azureedu/) - professional developer and designer tools, software, cloud services from Microsoft
+
+## Google products for higher education
+
+[Google products for higher education](https://edu.google.com/programs) - free credits to learn and build on Google Cloud, online labs and courses
+
+## Intel® Parallel Studio XE
+
+[Intel® Parallel Studio XE](https://software.intel.com/en-us/intel-parallel-studio-xe) - suite of development tools makes it simpler to build and modernize code on C, C++, Fortran, and Python
+
+## Intel® System Studio
+
+[Intel® System Studio](https://software.intel.com/en-us/system-studio) - an all-in-one, cross-platform tool suite, purpose-built to simplify system bring-up and improve system and IoT device application performance on Intel® platforms.
+
+
 
 
 ## Contribute
@@ -45,3 +77,4 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 To the extent possible under law, Alexander Yusov, Nikolai Semenov, Daria Volosatova has waived all copyright and
 related or neighboring rights to this work.
+
