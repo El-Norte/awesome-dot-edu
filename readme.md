@@ -29,9 +29,17 @@ Mostly IDE's and other stuff.
 - [Intel® System Studio](https://software.intel.com/en-us/system-studio) - an all-in-one, cross-platform tool suite, purpose-built to simplify system bring-up and improve system and IoT device application performance on Intel® platforms.
 
 
-## Other
+## Engineering
 
-- [List item](http://example.com)
+- [Autodesk Education](https://www.autodesk.com/education/free-software/featured) - more than 100 products available to students, educators, and institutions globally.
+
+- [Ansys products](https://www.ansys.com/academic/free-student-products) - tools for engineering simulation.
+
+- [Maple Student Edition](https://webstore.maplesoft.com/catalog.aspx) - general purpose computer algebra system. Not completly free, but with high discount.
+
+- [MATLAB](https://www.mathworks.com/academia/student_version.html) - tools for computer simulation. Not completly free, but with high discount.
+
+- [Wolfram Mathematica](https://www.wolfram.com/mathematica/pricing/students-individuals.php) - tools for technical computing. Not completly free, but with high discount.
 
 
 ## Contribute
