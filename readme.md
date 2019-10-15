@@ -14,13 +14,7 @@
 
 Mostly IDE's and other stuff.
 
-- [JetBrains products](https://www.jetbrains.com/student/) - professional developer tools for programming on Java, PHP, Ruby, Python, JavaScript, Kotlin, Objective-C, or .NET technologies
-
-- [Tinkoff VoiceKit](https://voicekit.tinkoff.ru/) - STT conversion for speech analysis, voice control and quality control
-
 - [GitHub Student Developer Pack](https://education.github.com/pack) - a lot of free tools only for student developers
-
-- [Microsoft Azure for education](https://www.cis.fiu.edu/azureedu/) - professional developer and designer tools, software, cloud services from Microsoft
 
 - [Google products for higher education](https://edu.google.com/programs) - free credits to learn and build on Google Cloud, online labs and courses
 
@@ -28,14 +22,20 @@ Mostly IDE's and other stuff.
 
 - [Intel® System Studio](https://software.intel.com/en-us/system-studio) - an all-in-one, cross-platform tool suite, purpose-built to simplify system bring-up and improve system and IoT device application performance on Intel® platforms.
 
+- [JetBrains products](https://www.jetbrains.com/student/) - professional developer tools for programming on Java, PHP, Ruby, Python, JavaScript, Kotlin, Objective-C, or .NET technologies
+
+- [Microsoft Azure for education](https://www.cis.fiu.edu/azureedu/) - professional developer and designer tools, software, cloud services from Microsoft
+
+- [Tinkoff VoiceKit](https://voicekit.tinkoff.ru/) - STT conversion for speech analysis, voice control and quality control
+
 
 ## Engineering
 
 Helpful tools for students with engineering background
 
-- [Autodesk Education](https://www.autodesk.com/education/free-software/featured) - more than 100 products available to students, educators, and institutions globally.
-
 - [Ansys products](https://www.ansys.com/academic/free-student-products) - tools for engineering simulation.
+
+- [Autodesk Education](https://www.autodesk.com/education/free-software/featured) - more than 100 products available to students, educators, and institutions globally.
 
 - [Maple Student Edition](https://webstore.maplesoft.com/catalog.aspx) - general purpose computer algebra system. Not completly free, but with high discount.
 
