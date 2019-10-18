@@ -36,7 +36,7 @@ Mostly IDE's and other stuff.
 
 - [Microsoft Azure for education](https://www.cis.fiu.edu/azureedu/) — professional developer and designer tools, software, cloud services from Microsoft.
 
--[Axure](https://www.axure.com/edu) — the most powerful way to plan, prototype, and hand off to developers, all without code
+- [Axure](https://www.axure.com/edu) — the most powerful way to plan, prototype, and hand off to developers, all without code
 
 - [AWS Educate](https://aws.amazon.com/education/awseducate/) — resources needed to accelerate cloud-related learning.
 
@@ -84,7 +84,7 @@ Anything so you don’t overwork
 
 - [Spotify](https://www.spotify.com/us/student/) — Spotify Premium, Hulu and SHOWTIME
 
--[The New York Times](https://www.nytimes.com/subscription/education/student) — Unlimited articles on any device. *$2.00 every 4 weeks*
+- [The New York Times](https://www.nytimes.com/subscription/education/student) — Unlimited articles on any device. *$2.00 every 4 weeks*
 
 
 ## Cool Things
