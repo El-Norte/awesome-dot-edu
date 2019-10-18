@@ -9,9 +9,11 @@
 
 - [Engineering](#engineering)
 
-- [Education](#education)
+- [Graphics](#graphics)
 
-- [Analysis and Finance](#analysis-and-finance)
+- [Analysis](#analysis)
+
+- [Office tools](#office-tools)
 
 - [Entertainment](#entertainment)
 
@@ -36,6 +38,8 @@ Mostly IDE's and other stuff.
 
 -[Axure](https://www.axure.com/edu) — the most powerful way to plan, prototype, and hand off to developers, all without code
 
+- [AWS Educate](https://aws.amazon.com/education/awseducate/) — resources needed to accelerate cloud-related learning.
+
 
 ## Engineering
 
@@ -52,19 +56,24 @@ Helpful tools for students with engineering background
 - [Wolfram Mathematica](https://www.wolfram.com/mathematica/pricing/students-individuals.php) — tools for technical computing. *Not completly free, but with high discount.*
 
 
-## Education
+## Graphics
 
-Platforms for education
+Tools for graphics and design
 
 - [Invision](https://www.invisionapp.com/education-signup) — the digital product design platform powering the world’s best user experiences
 
-- [AWS Educate](https://aws.amazon.com/education/awseducate/) — resources needed to accelerate cloud-related learning.
 
+## Analysis
 
-## Analysis and Finance
 - [Tableau](https://www.tableau.com/academic/students) — Prepare data for analysis, powerful drag-and-drop analytics, share data and insights.
 
+
+## Office tools
+
 - [YNAB Student Program ](https://www.youneedabudget.com/college/) — personal finance software
+
+
+- [Office 365 Education](https://www.microsoft.com/en-us/education/products/office) — free Word, Excel, PowerPoint, OneNote, and now Microsoft Teams, plus additional classroom tools.
 
 
 ## Entertainment
@@ -85,8 +94,6 @@ Anything so you don’t overwork
 - [Namecheap for education](https://nc.me/) — Free .ME Domain. *1 year*.
 
 - [Lastpass](https://lastpass.com/edupromo.php) — unlimited sync to unlimited devices including smartphones and tablets for 6 month.
-
-- [Office 365 Education](https://www.microsoft.com/en-us/education/products/office) — free Word, Excel, PowerPoint, OneNote, and now Microsoft Teams, plus additional classroom tools.
 
 
 ## Contribute
