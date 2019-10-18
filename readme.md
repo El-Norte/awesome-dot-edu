@@ -31,7 +31,7 @@ Mostly IDE's and other stuff.
 
 ## Engineering
 
-Helpful tools for students with engineering background
+Helpful tools for students with engineering background.
 
 - [Ansys products](https://www.ansys.com/academic/free-student-products) — tools for engineering simulation.
 
