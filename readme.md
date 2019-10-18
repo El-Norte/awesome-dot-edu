@@ -17,7 +17,7 @@ Mostly IDE's and other stuff.
 - [GitHub Student Developer Pack](https://education.github.com/pack) — a lot of free tools only for student developers.
 
 - [Google products for higher education](https://edu.google.com/programs) — free credits to learn and build on Google Cloud, online labs and courses.
-—
+
 - [Intel® Parallel Studio XE](https://software.intel.com/en-us/intel-parallel-studio-xe) — suite of development tools that makes it simpler to build and modernize code on C, C++, Fortran, and Python.
 
 - [Intel® System Studio](https://software.intel.com/en-us/system-studio) — an all-in-one, cross-platform tool suite, purpose-built to simplify system bring-up and improve system and IoT device application performance on Intel® platforms.
