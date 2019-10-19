@@ -5,7 +5,7 @@
 
 ## Contents
 
-- [Analysis](#analysis)
+- [Analytics](#analytics)
 
 - [Dev tools](#dev-tools)
 
@@ -20,7 +20,7 @@
 - [Useful stuff](#useful-stuff)
 
 
-## Analysis
+## Analytics
 
 - [Tableau](https://www.tableau.com/academic/students) — prepare data for analysis, powerful drag-and-drop analytics, share data and insights.
 
