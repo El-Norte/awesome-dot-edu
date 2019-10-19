@@ -17,7 +17,7 @@
 
 - [Entertainment](#entertainment)
 
-- [Cool Things](#cool-things)
+- [Useful stuff](#useful-stuff)
 
 
 ## Dev tools
@@ -86,7 +86,7 @@ Anything so you don’t overwork.
 - [The New York Times](https://www.nytimes.com/subscription/education/student) — Unlimited articles on any device. *$2.00 every 4 weeks.*
 
 
-## Cool Things
+## Useful stuff
 
 - [Tinkoff VoiceKit](https://voicekit.tinkoff.ru/) — STT conversion for speech analysis, voice control and quality control. *(in Russian)*
 
