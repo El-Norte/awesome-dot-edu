@@ -27,7 +27,7 @@
 
 ## Dev tools
 
-Mostly IDE's and other stuff.
+Mostly IDE's and other stuff for student developers. Free stuff for other developers can be found [here](https://github.com/ripienaar/free-for-dev).
 
 - [AWS Educate](https://aws.amazon.com/education/awseducate/) — resources needed to accelerate cloud-related learning.
 
