@@ -5,19 +5,24 @@
 
 ## Contents
 
+- [Analysis](#analysis)
+
 - [Dev tools](#dev-tools)
 
 - [Engineering](#engineering)
 
-- [Graphics](#graphics)
+- [Entertainment](#entertainment)
 
-- [Analysis](#analysis)
+- [Graphics](#graphics)
 
 - [Productivity software](#productivity-software)
 
-- [Entertainment](#entertainment)
-
 - [Useful stuff](#useful-stuff)
+
+
+## Analysis
+
+- [Tableau](https://www.tableau.com/academic/students) — prepare data for analysis, powerful drag-and-drop analytics, share data and insights.
 
 
 ## Dev tools
@@ -56,25 +61,6 @@ Helpful tools for students with engineering background.
 - [Wolfram Mathematica](https://www.wolfram.com/mathematica/pricing/students-individuals.php) — tools for technical computing. *Not completly free, but with high discount.*
 
 
-## Graphics
-
-Tools for graphics and design.
-
-- [Invision](https://www.invisionapp.com/education-signup) — the digital product design platform powering the world’s best user experiences.
-
-
-## Analysis
-
-- [Tableau](https://www.tableau.com/academic/students) — prepare data for analysis, powerful drag-and-drop analytics, share data and insights.
-
-
-## Productivity software
-
-- [YNAB Student Program](https://www.youneedabudget.com/college/) — personal finance software.
-
-- [Office 365 Education](https://www.microsoft.com/en-us/education/products/office) — free Word, Excel, PowerPoint, OneNote, and now Microsoft Teams, plus additional classroom tools.
-
-
 ## Entertainment
 
 Anything so you don’t overwork.
@@ -84,6 +70,20 @@ Anything so you don’t overwork.
 - [Spotify](https://www.spotify.com/us/student/) — Spotify Premium, Hulu and Showtime.
 
 - [The New York Times](https://www.nytimes.com/subscription/education/student) — unlimited articles on any device. *$2.00 every 4 weeks.*
+
+
+## Graphics
+
+Tools for graphics and design.
+
+- [Invision](https://www.invisionapp.com/education-signup) — the digital product design platform powering the world’s best user experiences.
+
+
+## Productivity software
+
+- [YNAB Student Program](https://www.youneedabudget.com/college/) — personal finance software.
+
+- [Office 365 Education](https://www.microsoft.com/en-us/education/products/office) — free Word, Excel, PowerPoint, OneNote, and now Microsoft Teams, plus additional classroom tools.
 
 
 ## Useful stuff
