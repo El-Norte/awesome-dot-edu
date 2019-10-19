@@ -8,9 +8,18 @@ project you agree to abide by its terms.
 
 Ensure your pull request adheres to the following guidelines:
 
-- Make sure you take care of this
-- And this as well
-- And don't forget to check this
+- Add one link per Pull Request.
+    - Make sure the PR title is in the format of `Add Product name`.
+    - Make sure the product has special terms for students.
+- Add the link: `- [Product name](http://example.com/) — a short description ends with a period.`
+    - Try to avoid URL parameters in the link.
+    - Use [em dash](https://en.wikipedia.org/wiki/Dash#Em_dash): `—`.
+    - Keep descriptions concise.
+- If new section is needed, create an issue.
+    - Describe the reasons why it is needed.
+- Search previous Pull Requests or Issues before making a new one, as yours may be a duplicate.
+- Check your spelling and grammar.
+- Remove any trailing whitespace.
 
 Thank you for your suggestions!
 
