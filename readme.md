@@ -65,7 +65,7 @@ Tools for graphics and design.
 
 ## Analysis
 
-- [Tableau](https://www.tableau.com/academic/students) — Prepare data for analysis, powerful drag-and-drop analytics, share data and insights.
+- [Tableau](https://www.tableau.com/academic/students) — prepare data for analysis, powerful drag-and-drop analytics, share data and insights.
 
 
 ## Productivity software
@@ -81,18 +81,18 @@ Anything so you don’t overwork.
 
 - [Amazon Prime Student](https://www.amazon.com/b/ref=as_li_ss_tl?node=668781011&linkCode=sl2&tag=34167-20&linkId=41185ac408375a1dfa25ec3e617632e7&language=en_US) — a 6-month trial that includes Free Two-Day Shipping on over 50 million items, unlimited streaming of Prime movies and TV shows, unlimited photo storage with Prime Photos, 20% off pre-order and new release video games, exclusive deals and savings, and more.
 
-- [Spotify](https://www.spotify.com/us/student/) — Spotify Premium, Hulu and SHOWTIME.
+- [Spotify](https://www.spotify.com/us/student/) — Spotify Premium, Hulu and Showtime.
 
-- [The New York Times](https://www.nytimes.com/subscription/education/student) — Unlimited articles on any device. *$2.00 every 4 weeks.*
+- [The New York Times](https://www.nytimes.com/subscription/education/student) — unlimited articles on any device. *$2.00 every 4 weeks.*
 
 
 ## Useful stuff
 
 - [Tinkoff VoiceKit](https://voicekit.tinkoff.ru/) — STT conversion for speech analysis, voice control and quality control. *(in Russian)*
 
-- [Namecheap for education](https://nc.me/) — free .ME Domain. *1 year.*
+- [Namecheap for education](https://nc.me/) — free `.me` Domain for 1 year.
 
-- [Lastpass](https://lastpass.com/edupromo.php) — unlimited sync to unlimited devices including smartphones and tablets for 6 month.
+- [Lastpass](https://lastpass.com/edupromo.php) — unlimited sync to unlimited devices including smartphones and tablets for 6 months.
 
 
 ## Contribute
