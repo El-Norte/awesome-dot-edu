@@ -13,7 +13,7 @@
 
 - [Analysis](#analysis)
 
-- [Office tools](#office-tools)
+- [Productivity software](#productivity-software)
 
 - [Entertainment](#entertainment)
 
@@ -68,7 +68,7 @@ Tools for graphics and design.
 - [Tableau](https://www.tableau.com/academic/students) — Prepare data for analysis, powerful drag-and-drop analytics, share data and insights.
 
 
-## Office tools
+## Productivity software
 
 - [YNAB Student Program](https://www.youneedabudget.com/college/) — personal finance software.
 
