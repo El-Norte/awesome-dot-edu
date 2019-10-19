@@ -29,6 +29,10 @@
 
 Mostly IDE's and other stuff.
 
+- [AWS Educate](https://aws.amazon.com/education/awseducate/) — resources needed to accelerate cloud-related learning.
+
+- [Axure](https://www.axure.com/edu) — the most powerful way to plan, prototype, and hand off to developers, all without code.
+
 - [GitHub Student Developer Pack](https://education.github.com/pack) — a lot of free tools only for student developers.
 
 - [Google products for higher education](https://edu.google.com/programs) — free credits to learn and build on Google Cloud, online labs and courses.
@@ -40,11 +44,6 @@ Mostly IDE's and other stuff.
 - [JetBrains products](https://www.jetbrains.com/student/) — professional developer tools for Java, PHP, Ruby, Python, JavaScript, Kotlin, C/C++, Objective-C and .NET.
 
 - [Microsoft Azure for education](https://www.cis.fiu.edu/azureedu/) — professional developer and designer tools, software, cloud services from Microsoft.
-
-- [Axure](https://www.axure.com/edu) — the most powerful way to plan, prototype, and hand off to developers, all without code.
-
-- [AWS Educate](https://aws.amazon.com/education/awseducate/) — resources needed to accelerate cloud-related learning.
-
 
 ## Engineering
 
@@ -81,18 +80,18 @@ Tools for graphics and design.
 
 ## Productivity software
 
-- [YNAB Student Program](https://www.youneedabudget.com/college/) — personal finance software.
-
 - [Office 365 Education](https://www.microsoft.com/en-us/education/products/office) — free Word, Excel, PowerPoint, OneNote, and now Microsoft Teams, plus additional classroom tools.
+
+- [YNAB Student Program](https://www.youneedabudget.com/college/) — personal finance software.
 
 
 ## Useful stuff
 
-- [Tinkoff VoiceKit](https://voicekit.tinkoff.ru/) — STT conversion for speech analysis, voice control and quality control. *(in Russian)*
+- [Lastpass](https://lastpass.com/edupromo.php) — unlimited sync to unlimited devices including smartphones and tablets for 6 months.
 
 - [Namecheap for education](https://nc.me/) — free `.me` Domain for 1 year.
 
-- [Lastpass](https://lastpass.com/edupromo.php) — unlimited sync to unlimited devices including smartphones and tablets for 6 months.
+- [Tinkoff VoiceKit](https://voicekit.tinkoff.ru/) — STT conversion for speech analysis, voice control and quality control. *(in Russian)*
 
 
 ## Contribute
