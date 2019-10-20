@@ -66,6 +66,8 @@ Anything so you don’t overwork.
 
 - [Amazon Prime Student](https://www.amazon.com/b/ref=as_li_ss_tl?node=668781011&linkCode=sl2&tag=34167-20&linkId=41185ac408375a1dfa25ec3e617632e7&language=en_US) — a 6-month trial that includes Free Two-Day Shipping on over 50 million items, unlimited streaming of Prime movies and TV shows, unlimited photo storage with Prime Photos, 20% off pre-order and new release video games, exclusive deals and savings, and more.
 
+- [Apple Music](https://support.apple.com/en-us/HT205928) — access to more than 50 million songs. *Not completly free, but with high discount.*
+
 - [Spotify](https://www.spotify.com/us/student/) — Spotify Premium, Hulu and Showtime.
 
 - [The New York Times](https://www.nytimes.com/subscription/education/student) — unlimited articles on any device. *$2.00 every 4 weeks.*
