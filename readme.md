@@ -86,6 +86,8 @@ Tools for graphics and design.
 
 - [YNAB Student Program](https://www.youneedabudget.com/college/) — personal finance software.
 
+- [Taskade](https://www.taskade.com/) — simple and elegant organization tool for tasks, notes, and mind maps.
+
 
 ## Useful stuff
 
